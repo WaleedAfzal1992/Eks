@@ -1,4 +1,4 @@
-name: Deploy ELK Stack on EKS
+name: Deploy ELK Stack on EKs
 
 on:
   push:
